@@ -1,7 +1,6 @@
 <!-- my-page.html --> 
   
 # Earthy
-Earthy_group04
 
 **Group 04**
 
@@ -9,7 +8,7 @@ Earthy_group04
 
 Assignment_1
 
-Deliverables:
+
 
 +Flowchart
 

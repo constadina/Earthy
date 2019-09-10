@@ -3,16 +3,16 @@ Earthy_group04
 
 **Group 04**
 
-![group_04_photo](C:\Users\konst\Documents\MSc Building Technology\Earthy\Assignment_1\group_04_photo.jpeg "Our team")
+![group_04_photo](C:\Users\konst\Documents\MSc Building Technology\Earthy\Assignment_1\group_04_photo.jpeg)
 
 Assignment_1
 
 Deliverables:
 
-*Flowchart
++Flowchart
 
-*Programme of Requirements
++Programme of Requirements
 
-*REL-Chart 
++REL-Chart 
 
-*Bubble Diagram
++Bubble Diagram

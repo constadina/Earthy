@@ -8,6 +8,7 @@ Bart | Daniella | Konstantina | Maria | Ronald | Steven
 **Assignment_0**
 
 Demographic Information.pdf
+
 Initial map sketches.pdf
 
 

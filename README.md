@@ -27,6 +27,3 @@ Process is a PDF that summarises our research so far and includes:
 
 
 +Bubble Diagram
-
-
-https://github.com/constadina/Earthy/commit/eee753a57a6b51007d7dbbadc19ffb9fa7004138 

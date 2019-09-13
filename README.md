@@ -1,7 +1,7 @@
 <!-- my-page.html --> 
   
 # Earthy
-Group_04
+Group_04 - SAND CASTLE
 
 Bart | Daniella | Konstantina | Maria | Ronald | Steven
 

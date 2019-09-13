@@ -6,10 +6,6 @@
 
 Bart | Daniella | Konstantina | Maria | Ronald | Steven
 
-![group_04_photo](C:\Users\konst\Documents\MSc Building Technology\Earthy\Assignment_1\group_04_photo.jpeg)
-![group_04_photo](https://raw.githubusercontent.com/constadina/Earthy/master/path/to/group_04_photo.jpeg)
-(introduction)
-
 Assignment_1
 Introduction
 

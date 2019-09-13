@@ -7,23 +7,25 @@ Bart | Daniella | Konstantina | Maria | Ronald | Steven
 
 **Assignment_0**
 
-Introduction
+Demographic Information.pdf
+Initial map sketches.pdf
+
 
 **Assignment_1**
 
-Introduction
+Process is a PDF that summarises our research so far and includes:
 
 
 +Flowchart
-(small discription)
+
 
 +Programme of Requirements
-(small discription)
+
 
 +REL-Chart
-(small discription)
+
 
 +Bubble Diagram
-(small discription)
+
 
 https://github.com/constadina/Earthy/commit/eee753a57a6b51007d7dbbadc19ffb9fa7004138 

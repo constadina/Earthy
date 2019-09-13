@@ -2,11 +2,10 @@
   
 # Earthy
 
-**Group 04**
+**Group 04  Assignment_1**
 
 Bart | Daniella | Konstantina | Maria | Ronald | Steven
 
-<Assignment_1>
 Introduction
 
 

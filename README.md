@@ -1,10 +1,13 @@
 <!-- my-page.html --> 
   
 # Earthy
-
-**Group_04 - Assignment_1**
-
+Group_04
 Bart | Daniella | Konstantina | Maria | Ronald | Steven
+
+**Assignment_0**
+Introduction
+
+**Assignment_1**
 
 Introduction
 
